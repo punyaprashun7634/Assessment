@@ -181,6 +181,9 @@ body{
     background-color: var(--filter-color);
     padding-left: 0.5rem;
 }
+.filter-name{
+    color: var(--primary-color);
+}
 .clear{
     border: none;
     background-color: transparent;
